@@ -14,3 +14,5 @@ and here you go
 
 updating the default master branch
 after b1 branch was created
+
+adding lines for commit to branch b2
