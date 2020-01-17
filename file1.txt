@@ -1,6 +1,6 @@
 hello world
 another line of code
-learning git hub...
+git hub...
 
 
 
@@ -12,8 +12,40 @@ another few lines
 and here you go
 
 
+changes by branch b1:
 some more dummy lines
 for the new branch
 
 adding lines for second commit to branch b1
 lets see the network graph now
+
+
+again changes by default master branch
+updating the default master branch
+after b1 branch was created
+
+changes by b2 branch:
+adding lines for commit to branch b2
+
+lines for second commit to branch b2
+this may lead to clashes
+
+
+commits by default branch:
+updating default master branch after two commits in branch b2
+next step should be merging branch b1
+
+changes by another user:
+here is a contribution from another collaborator
+with some more dummy lines
+
+second commit by another collaborator
+with some more dummy lines
+
+chanegs by deafult master branch:
+time to update from master branch
+after another collaborator committed some changes
+
+update master branch after first merge from branch b2
+
+update master branch after pull request from another collborator
