@@ -10,3 +10,7 @@ for another commit
 
 another few lines
 and here you go
+
+
+updating the default master branch
+after b1 branch was created
