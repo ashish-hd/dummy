@@ -1,6 +1,6 @@
 hello world
 another line of code
-learning git hub...
+git hub...
 
 
 
@@ -15,6 +15,14 @@ and here you go
 updating the default master branch
 after b1 branch was created
 
+changes by b2 branch:
+adding lines for commit to branch b2
+
+lines for second commit to branch b2
+this may lead to clashes
+
+
+commits by default branch:
 updating default master branch after two commits in branch b2
 next step should be merging branch b1
 
