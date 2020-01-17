@@ -16,3 +16,6 @@ updating the default master branch
 after b1 branch was created
 
 adding lines for commit to branch b2
+
+lines for second commit to branch b2
+this may lead to clashes
