@@ -12,6 +12,15 @@ another few lines
 and here you go
 
 
+changes by branch b1:
+some more dummy lines
+for the new branch
+
+adding lines for second commit to branch b1
+lets see the network graph now
+
+
+again changes by default master branch
 updating the default master branch
 after b1 branch was created
 
