@@ -1,6 +1,6 @@
 hello world
 another line of code
-learning git hub...
+git hub...
 
 
 
