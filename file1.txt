@@ -17,3 +17,6 @@ after b1 branch was created
 
 updating default master branch after two commits in branch b2
 next step should be merging branch b1
+
+time to update from master branch
+after another collaborator committed some changes
