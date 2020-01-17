@@ -28,3 +28,5 @@ next step should be merging branch b1
 
 time to update from master branch
 after another collaborator committed some changes
+
+update master branch after first merge from branch b2
