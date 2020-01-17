@@ -20,3 +20,6 @@ next step should be merging branch b1
 
 here is a contribution from another collaborator
 with some more dummy lines
+
+second commit by another collaborator
+with some more dummy lines
