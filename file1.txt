@@ -26,6 +26,14 @@ commits by default branch:
 updating default master branch after two commits in branch b2
 next step should be merging branch b1
 
+changes by another user:
+here is a contribution from another collaborator
+with some more dummy lines
+
+second commit by another collaborator
+with some more dummy lines
+
+chanegs by deafult master branch:
 time to update from master branch
 after another collaborator committed some changes
 
